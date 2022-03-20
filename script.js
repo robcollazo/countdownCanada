@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours')
 const minutesEl = document.getElementById('minutes')
 const secondsEl = document.getElementById('seconds')
 
-const Ida = '23 Apr 2022'
+const Ida = '12 Mai 2022'
 
 function countdown() {
   const dataIda = new Date(Ida)
